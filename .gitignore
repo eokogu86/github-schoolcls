@@ -1,0 +1,3 @@
+# specify folder or filename to ignore when you run git add
+.DS_Store
+sample.html
